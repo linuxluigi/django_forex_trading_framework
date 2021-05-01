@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=django_forex_trading_framework
+POSTGRES_USER=xczLWoffuMyCBaKzNBhPzhJCaPxDivNK
+POSTGRES_PASSWORD=KUVDv0vvyUkLdM9sq3lZwpd4ilfMQaj3eIMaLamdKVFMPtLbk0TqEd1v3BPgJrS5
